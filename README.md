@@ -14,7 +14,7 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
 <br>
 <p align="center">
   <a href="https://www.w3schools.com/whatis/whatis_cli.asp" target="_blank" rel="noreferrer"> 
-    <img src="./images/terminal-icon.png" alt="linux" width="60"/>
+    <img src="./images/terminal-icon.png" alt="terminal" width="60"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="./images/git-icon.png" alt="git" width="60"/>
@@ -35,10 +35,10 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
     <img src="./images/react-icon.png" alt="react" width="60"/> 
   </a>
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
-    <img src="./images/rtl-icon.png" alt="react" width="200"/> 
+    <img src="./images/rtl-icon.png" alt="rtl" width="60"/> 
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="./images/redux-icon.png" alt="react" width="60"/> 
+    <img src="./images/redux-icon.png" alt="redux" width="60"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="./images/docker-icon.png" alt="docker" width="60"/> 
@@ -47,7 +47,7 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
     <img src="./images/mysql-icon.png" alt="mysql" width="60"/> 
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="./images/nodejs-icon.png" alt="mysql" width="60"/> 
+    <img src="./images/nodejs-icon.png" alt="nodejs" width="60"/> 
   </a>
 </p>
 <br>
@@ -59,9 +59,9 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
 <h2 align="center">Estatísticas do Github</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leo02452&show_icons=true&locale=en" alt="leo02452" width=330px />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leo02452&show_icons=true&locale=en&layout=compact" alt="leo02452" width=330px />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo02452&" alt="leo02452" width=330px />
+  <img src="https://github-readme-stats.vercel.app/api?username=leo02452&show_icons=true&locale=en" alt="leo02452" width=400px />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leo02452&show_icons=true&locale=en&layout=compact" alt="leo02452" width=400px />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo02452&" alt="leo02452" width=400px />
 </p>
 
 

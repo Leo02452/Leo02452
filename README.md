@@ -13,32 +13,41 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
 <h2 align="center">Linguagens e ferramentas que posso ajudar:</h2>
 <br>
 <p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60"/> 
+  <a href="https://www.w3schools.com/whatis/whatis_cli.asp" target="_blank" rel="noreferrer"> 
+    <img src="./images/terminal-icon.png" alt="linux" width="60"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60"/>
+    <img src="./images/git-icon.png" alt="git" width="60"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60"/> 
+    <img src="./images/html-icon.png" alt="html5" width="60"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="./images/css-icon.png" alt="css3" width="60"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60"/>
+    <img src="./images/js-icon.png" alt="javascript" width="60"/>
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60"/> 
+    <img src="./images/jest-icon.png" alt="jest" width="60"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60"/> 
+    <img src="./images/react-icon.png" alt="react" width="60"/> 
+  </a>
+  <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
+    <img src="./images/rtl-icon.png" alt="react" width="200"/> 
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="./images/redux-icon.png" alt="react" width="60"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="./images/docker-icon.png" alt="docker" width="60"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="./images/mysql-icon.png" alt="mysql" width="60"/> 
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="./images/nodejs-icon.png" alt="mysql" width="60"/> 
   </a>
 </p>
 <br>
@@ -66,3 +75,9 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
     <img align="middle" alt="E-mail" width="45px" src="./images/malito-icon.png" />
   </a>
 </p>
+
+<br>
+
+<p>Todos os icones são do site <a target="_blank" href="https://icons8.com">Icons8</a><p>
+  
+---

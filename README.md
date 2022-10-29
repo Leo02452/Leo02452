@@ -65,6 +65,52 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
 </p>
 
 
+
+<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Leo02452/projetos-html-css-js/">HTML-CSS-JS</a></h2>
+      <a href="https://github.com/Leo02452/projetos-html-css-js/">Uma imagem aqui</a>
+    </td>
+     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Yuut-Reis/Projects-in-JavaScript">React</a></h2>
+      <a href="https://github.com/Yuut-Reis/Projects-in-JavaScript">Uma imagem aqui</a>
+    </td>
+  </tr>
+  <tr>
+     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Yuut-Reis/Projects-in-TypeScript">NODE.js e Javascript</a></h2>
+      <a href="https://github.com/Yuut-Reis/Projects-in-TypeScript">Uma imagem aqui</a>
+    </td>
+     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Yuut-Reis/Projects-in-Python">NODE.js e Typescript</a></h2>
+      <a href="https://github.com/Yuut-Reis/Projects-in-Python">Uma imagem aqui</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Yuut-Reis/Projects-in-TypeScript">Python</a></h2>
+      <a href="https://github.com/Yuut-Reis/Projects-in-TypeScript">Uma imagem aqui</a>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Yuut-Reis/Projects-in-TypeScript">Favoritos</a></h2>
+      <a href="https://github.com/Yuut-Reis/Projects-in-TypeScript">Uma imagem aqui</a>
+    </td>
+  </tr>
+</table>
+</div>
+  
+
+
+
+
+
+
+
+
+
+
 <h2 align="center">Contato</h2>
 
 <p align="center">

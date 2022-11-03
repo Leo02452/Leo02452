@@ -89,42 +89,47 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Leo02452/projetos-html-css-js/">HTML-CSS-JS</a></h2>
-      <a href="https://github.com/Leo02452/projetos-html-css-js/">Uma imagem aqui</a>
+      <a href="https://github.com/Leo02452/projetos-html-css-js/">
+        <img width="100%" src="./images/project-html-css-js-icon.png" alt="html-css-js-icon" />
+      </a>
     </td>
-     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Yuut-Reis/Projects-in-JavaScript">React</a></h2>
-      <a href="https://github.com/Yuut-Reis/Projects-in-JavaScript">Uma imagem aqui</a>
-    </td>
-  </tr>
-  <tr>
-     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Yuut-Reis/Projects-in-TypeScript">NODE.js e Javascript</a></h2>
-      <a href="https://github.com/Yuut-Reis/Projects-in-TypeScript">Uma imagem aqui</a>
-    </td>
-     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Yuut-Reis/Projects-in-Python">NODE.js e Typescript</a></h2>
-      <a href="https://github.com/Yuut-Reis/Projects-in-Python">Uma imagem aqui</a>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Leo02452/projetos-react/">React</a></h2>
+      <a href="https://github.com/Leo02452/projetos-react/">
+        <img width="100%" src="./images/project-react-icon.png" alt="react-icon" />
+      </a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Yuut-Reis/Projects-in-TypeScript">Python</a></h2>
-      <a href="https://github.com/Yuut-Reis/Projects-in-TypeScript">Uma imagem aqui</a>
+      <h2 align="center"><a href="https://github.com/Leo02452/projetos-nodejs-javascript/">NODE.js e Javascript</a></h2>
+      <a href="https://github.com/Leo02452/projetos-nodejs-javascript/">
+        <img width="100%" src="./images/project-nodejs-icon.png" alt="nodejs-icon" />
+      </a>
+    </td>
+     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Leo02452/projetos-nodejs-typescript/">NODE.js e Typescript</a></h2>
+      <a href="https://github.com/Leo02452/projetos-nodejs-typescript">
+        <img width="100%" src="./images/project-node-typescript-icon.png" alt="node-typescript-icon" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Leo02452/projetos-python/">Python</a></h2>
+      <a href="https://github.com/Leo02452/projetos-python">
+        <img width="100%" src="./images/project-python-icon.png" alt="python-icon" />
+      </a>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Yuut-Reis/Projects-in-TypeScript">Favoritos</a></h2>
-      <a href="https://github.com/Yuut-Reis/Projects-in-TypeScript">Uma imagem aqui</a>
+      <h2 align="center"><a href="https://github.com/Leo02452/projetos-favoritos/">Python</a></h2>
+      <a href="https://github.com/Leo02452/projetos-favoritos">
+        <img width="100%" src="./images/project-favorite-icon.png" alt="favorite-icon" />
+      </a>
     </td>
   </tr>
 </table>
 </div>
-  
-
-
-
-
-
-
 
 
 

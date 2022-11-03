@@ -84,6 +84,8 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
 
 
 
+
+<h1 align="center">PROJETOS</h1> 
 <div align="center">
 <table>
   <tr>
@@ -122,7 +124,7 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
       </a>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Leo02452/projetos-favoritos/">Python</a></h2>
+      <h2 align="center"><a href="https://github.com/Leo02452/projetos-favoritos/">Favoritos</a></h2>
       <a href="https://github.com/Leo02452/projetos-favoritos">
         <img width="100%" src="./images/project-favorite-icon.png" alt="favorite-icon" />
       </a>

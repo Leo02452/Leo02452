@@ -13,41 +13,59 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
 <h2 align="center">Linguagens e ferramentas que posso ajudar:</h2>
 <br>
 <p align="center">
-  <a href="https://www.w3schools.com/whatis/whatis_cli.asp" target="_blank" rel="noreferrer"> 
-    <img src="./images/terminal-icon.png" alt="terminal" width="60"/>
+  <a href="https://www.w3schools.com/whatis/whatis_cli.asp" target="_blank" rel="noreferrer" title="Bash"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="60"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="./images/git-icon.png" alt="git" width="60"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
     <img src="./images/html-icon.png" alt="html5" width="60"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
     <img src="./images/css-icon.png" alt="css3" width="60"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Javascript">
     <img src="./images/js-icon.png" alt="javascript" width="60"/>
   </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer" title="Jest">
     <img src="./images/jest-icon.png" alt="jest" width="60"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
     <img src="./images/react-icon.png" alt="react" width="60"/> 
   </a>
-  <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
+  <a href="https://testing-library.com/" target="_blank" rel="noreferrer" alt="RTL">
     <img src="./images/rtl-icon.png" alt="rtl" width="60"/> 
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux">
     <img src="./images/redux-icon.png" alt="redux" width="60"/> 
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
     <img src="./images/docker-icon.png" alt="docker" width="60"/> 
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
     <img src="./images/mysql-icon.png" alt="mysql" width="60"/> 
   </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="NODEjs">
     <img src="./images/nodejs-icon.png" alt="nodejs" width="60"/> 
+  </a>
+   <a href="https://mochajs.org/" target="_blank" rel="noreferrer" title="Mocha">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="mocha" width="60"/> 
+  </a>
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer" title="Sequelize">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="60"/> 
+  </a>
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="Typescript">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="60"/> 
+  </a>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60"/> 
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="60"/> 
+  </a>
+   <a href="https://docs.pytest.org/en/7.2.x/" target="_blank" rel="noreferrer" title="Pytest">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="pytest" width="60"/> 
   </a>
 </p>
 <br>
@@ -123,7 +141,5 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
 </p>
 
 <br>
-
-<p>Todos os icones são do site <a target="_blank" href="https://icons8.com">Icons8</a><p>
   
 ---

@@ -109,7 +109,7 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
         <img width="100%" src="./images/project-nodejs-icon.png" alt="nodejs-icon" />
       </a>
     </td>
-     <td valign="top" width="50%">
+    <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Leo02452/projetos-nodejs-typescript/">NODE.js e Typescript</a></h2>
       <a href="https://github.com/Leo02452/projetos-nodejs-typescript">
         <img width="100%" src="./images/project-node-typescript-icon.png" alt="node-typescript-icon" />

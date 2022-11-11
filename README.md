@@ -1,7 +1,3 @@
-<div>
-  <img align="center" height="400px" width="100%" alt="header" src="/images/header.png?raw=true"/>
-</div>
-
 ---
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=leo02452&label=Profile%20views&color=0e75b6&style=flat" alt="leo02452" /> </p>

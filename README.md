@@ -98,13 +98,13 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Leo02452/projetos-html-css-js/">HTML-CSS-JS</a></h2>
       <a href="https://github.com/Leo02452/projetos-html-css-js/">
-        <img width="100%" src="./images/project-html-css-js-icon.png" alt="html-css-js-icon" />
+        <img width="100%" src="./images/html-css-js-project-icon.png" alt="html-css-js-icon" />
       </a>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Leo02452/projetos-react/">React</a></h2>
       <a href="https://github.com/Leo02452/projetos-react/">
-        <img width="100%" src="./images/project-react-icon.png" alt="react-icon" />
+        <img width="100%" src="./images/react-project-icon.png" alt="react-icon" />
       </a>
     </td>
   </tr>
@@ -112,13 +112,13 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Leo02452/projetos-nodejs-javascript/">NODE.js e Javascript</a></h2>
       <a href="https://github.com/Leo02452/projetos-nodejs-javascript/">
-        <img width="100%" src="./images/project-nodejs-icon.png" alt="nodejs-icon" />
+        <img width="100%" src="./images/nodejs-project-icon.png" alt="nodejs-icon" />
       </a>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Leo02452/projetos-nodejs-typescript/">NODE.js e Typescript</a></h2>
       <a href="https://github.com/Leo02452/projetos-nodejs-typescript">
-        <img width="100%" src="./images/project-node-typescript-icon.png" alt="node-typescript-icon" />
+        <img width="100%" src="./images/node-typescript-project-icon.png" alt="node-typescript-icon" />
       </a>
     </td>
   </tr>
@@ -126,13 +126,13 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
      <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Leo02452/projetos-python/">Python</a></h2>
       <a href="https://github.com/Leo02452/projetos-python">
-        <img width="100%" src="./images/project-python-icon.png" alt="python-icon" />
+        <img width="100%" src="./images/python-project-icon.png" alt="python-icon" />
       </a>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Leo02452/projetos-favoritos/">Favoritos</a></h2>
       <a href="https://github.com/Leo02452/projetos-favoritos">
-        <img width="100%" src="./images/project-favorite-icon.png" alt="favorite-icon" />
+        <img width="100%" src="./images/favorite-project-icon.png" alt="favorite-icon" />
       </a>
     </td>
   </tr>

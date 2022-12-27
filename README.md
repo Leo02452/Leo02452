@@ -80,17 +80,6 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
 <br>
 
 
-<h2 align="center">Estatísticas do Github</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leo02452&show_icons=true&locale=en" alt="leo02452" width=400px />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leo02452&show_icons=true&locale=en&layout=compact" alt="leo02452" width=400px />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo02452&" alt="leo02452" width=400px />
-</p>
-
-
-
-
 <h1 align="center">PORTFÓLIO</h1> 
 <div align="center">
 <table>
@@ -126,6 +115,13 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
 </div>
 
 
+<h2 align="center">Estatísticas do Github</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leo02452&show_icons=true&locale=en" alt="leo02452" width=400px />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leo02452&show_icons=true&locale=en&layout=compact" alt="leo02452" width=400px />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo02452&" alt="leo02452" width=400px />
+</p>
 
 
 <h2 align="center">Contato</h2>

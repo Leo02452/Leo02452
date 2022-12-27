@@ -80,18 +80,16 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
 <br>
 
 
-<h1 align="center">PORTFÓLIO</h1> 
+<h2 align="center">Portfólio</h2>
 <div align="center">
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Leo02452/projetos-frontend/">Frontend</a></h2>
       <a href="https://github.com/Leo02452/projetos-frontend/">
         <img width="300px" src="./images/frontend.png" alt="frontend-icon" />
       </a>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Leo02452/projetos-backend/">Backend</a></h2>
       <a href="https://github.com/Leo02452/projetos-backend/">
         <img width="300px" src="./images/backend.png" alt="backend-icon" />
       </a>
@@ -99,13 +97,11 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Leo02452/projetos-fullstack/">Fullstack</a></h2>
       <a href="https://github.com/Leo02452/projetos-fullstack/">
         <img width="300px" src="./images/fullstack.png" alt="fullstack-icon" />
       </a>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Leo02452/projetos-outros/">Outros</a></h2>
       <a href="https://github.com/Leo02452/projetos-outros">
         <img width="300px" src="./images/outros.png" alt="outros-icon" />
       </a>

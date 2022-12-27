@@ -91,48 +91,34 @@ Além disso, gosto de encontrar padrões para automatizar e otimizar processos r
 
 
 
-<h1 align="center">PROJETOS</h1> 
+<h1 align="center">PORTFÓLIO</h1> 
 <div align="center">
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Leo02452/projetos-html-css-js/">HTML-CSS-JS</a></h2>
-      <a href="https://github.com/Leo02452/projetos-html-css-js/">
-        <img width="100%" src="./images/html-css-js-project-icon.png" alt="html-css-js-icon" />
+      <h2 align="center"><a href="https://github.com/Leo02452/projetos-frontend/">Frontend</a></h2>
+      <a href="https://github.com/Leo02452/projetos-frontend/">
+        <img width="300px" src="./images/frontend.png" alt="frontend-icon" />
       </a>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Leo02452/projetos-react/">React</a></h2>
-      <a href="https://github.com/Leo02452/projetos-react/">
-        <img width="100%" src="./images/react-project-icon.png" alt="react-icon" />
+      <h2 align="center"><a href="https://github.com/Leo02452/projetos-backend/">Backend</a></h2>
+      <a href="https://github.com/Leo02452/projetos-backend/">
+        <img width="300px" src="./images/backend.png" alt="backend-icon" />
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Leo02452/projetos-nodejs-javascript/">NODE.js e Javascript</a></h2>
-      <a href="https://github.com/Leo02452/projetos-nodejs-javascript/">
-        <img width="100%" src="./images/nodejs-project-icon.png" alt="nodejs-icon" />
+      <h2 align="center"><a href="https://github.com/Leo02452/projetos-fullstack/">Fullstack</a></h2>
+      <a href="https://github.com/Leo02452/projetos-fullstack/">
+        <img width="300px" src="./images/fullstack.png" alt="fullstack-icon" />
       </a>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Leo02452/projetos-nodejs-typescript/">NODE.js e Typescript</a></h2>
-      <a href="https://github.com/Leo02452/projetos-nodejs-typescript">
-        <img width="100%" src="./images/node-typescript-project-icon.png" alt="node-typescript-icon" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Leo02452/projetos-python/">Python</a></h2>
-      <a href="https://github.com/Leo02452/projetos-python">
-        <img width="100%" src="./images/python-project-icon.png" alt="python-icon" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Leo02452/projetos-favoritos/">Favoritos</a></h2>
-      <a href="https://github.com/Leo02452/projetos-favoritos">
-        <img width="100%" src="./images/favorite-project-icon.png" alt="favorite-icon" />
+      <h2 align="center"><a href="https://github.com/Leo02452/projetos-outros/">Outros</a></h2>
+      <a href="https://github.com/Leo02452/projetos-outros">
+        <img width="300px" src="./images/outros.png" alt="outros-icon" />
       </a>
     </td>
   </tr>

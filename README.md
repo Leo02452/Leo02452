@@ -10,8 +10,10 @@
 <img align="right" alt="my octocat" width="400px" src="./images/octocat-icon.png" />
 
 Desde criança apaixonado por música, games, puzzles e testes lógicos em geral, aprendi cedo sobre resolução de problemas. Mesmo quando não estou desenvolvendo um código procuro analisar um problema e quebrá-lo em partes menores para simplificá-lo.
-
 Além disso, gosto de encontrar padrões para automatizar e otimizar processos repetitivos.
+
+Recentemente concluí o curso de Desenvolvimento Web Fullstack da [Trybe](https://www.betrybe.com/).
+Atualmente estou desenvolvendo uma [aplicação para gerenciar times de futsal](https://github.com/Leo02452/futsal-manager-backend), e estudando AWS e Clean Archtecture com Domain Driven Design.
 <br>
 <br>
 

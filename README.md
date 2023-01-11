@@ -7,7 +7,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=leo02452&label=Profile%20views&color=0e75b6&style=flat" alt="leo02452" /> </p>
 
 
-<img align="right" alt="my octocat" width="500px" src="./images/octocat-icon.png" />
+<img align="right" alt="my octocat" width="300px" src="./images/octocat-icon.png" />
 
 Desde criança apaixonado por música, games, puzzles e testes lógicos em geral, aprendi cedo sobre resolução de problemas. Mesmo quando não estou desenvolvendo um código procuro analisar um problema e quebrá-lo em partes menores para simplificá-lo.
 Além disso, gosto de encontrar padrões para automatizar e otimizar processos repetitivos.
@@ -16,7 +16,10 @@ Recentemente concluí o curso de Desenvolvimento Web Fullstack da [Trybe](https:
 Atualmente estou desenvolvendo uma [aplicação para gerenciar times de futsal](https://github.com/Leo02452/futsal-manager-backend), e estudando AWS e Clean Archtecture com Domain Driven Design.
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 
 <h2 align="center">Linguagens e ferramentas que posso ajudar:</h2>
 <br>
